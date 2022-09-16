@@ -4,4 +4,4 @@ Trivia de historia universal 🏺
 ## MODO DE JUEGO 📜
 El participante podrá escoger entre cuatro alternativas. Las respuestas correctas aumentarán puntaje y las incorrectas restarán. El participante inicia con 0 puntos. 
 ### DESARROLLADO POR
-Gerson Vargas  @gersaurio
+Gerson Vargas  @Gersaurio
